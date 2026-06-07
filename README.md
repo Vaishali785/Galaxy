@@ -8,7 +8,7 @@ Explore the beauty of the cosmos with this interactive galaxy visualization. The
 
 ## Demo
 
-Check out the live demo [here](https://vaishali785.github.io/galaxy/).
+Check out the live demo [here](https://vaishali785.github.io/Galaxy/).
 
 ## Features
 
